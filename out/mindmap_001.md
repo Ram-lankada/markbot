@@ -1,0 +1,352 @@
+
+---
+_Update: 2026-01-15 16:58 IST_
+
+## General (Keep)
+### #signet-wallet-1-balance
+- testing testing, can everyone send messages in here now?
+- this is a high quality message.
+- yes thank you @pinheadmz
+- not everyone here was on the welcome call
+- so not everyont in this channel has started the challenge yet
+- you need to stop asking questions like this
+- besides that, everyone should have gotten an email with some private keys for this and future challenges
+- why is tr() called tap root and not tape root
+- then you should be able to figure out what to do next by READING
+- nvm gmaxwell proposed it cuz tree analogy
+- devs were big fans of the band
+- My conection goes down in the final of the meeting, i missing a important info ? i need say a thing to holocat ?
+- better taproot than calling it fancymerkel
+- oh wow it deleted my image
+- and DO NOT post answers
+- I didn't get or see any link.
+- and DO NOT post magic words
+- were you in the meeting? paying attention to Jonas?
+- do NOT dictionary attack holo cat
+- see the announcements
+- I'm not great at conversations (speaking and listening) in English.
+- DM @jonas and explain, you only had to listen for one word
+- are we only allowed to fill in the rusy/python solutions?
+- what do the docs say about this
+- Is @jonas accepting friend requests? I can't DM him.
+- i knew if i sent 570 emails all at once thered be a mistake
+- lol it's a lot of work typing all those private keys by hand
+- are we to wait for the challenge after receiving the email for invoice and private key @pinheadmz
+- You'll get the challenge when you attend a welcome call
+- Reminder: DO NOT post answers or magic words
+- i did attend the call and i even ask questions. i stayed till the end
+- Did you DM the magic word to holocat like Jonas said to? And repeated ?
+- i'd assume that's the purpose of the discord server. to help each other.
+- can we use some ou our existing other public repos as git submodules for our solution?
+- Sure I think that's ok as long as it's your own work
+- And the code that you're using is open source?
+- And Open source means open prompt, aye?
+- If you don't want to learn anything why are you here
+- no I mean for tools we created. You cant hide your prompts then pretend the tool is open source.
+- I do hope once the hostility fades, we can push for open prompts so people stop pretending they coded things and hiding the prompts. Take all the space you need to get there and hmu if you change your mind and want to promote open source practices within ethical AI use.
+- Sorry I'm confused. Open prompts mean you just give credit to the LLM?
+- It means you show the prompts you use to write production level software as a strict requirement of "open source".
+- AI is still new technology, so we are right now setting the rules of how AI and OSS intersect. People will set rules in small groups like this, and if those rules help students learn, maybe they become adopted as standards of OSS more broadly. No pressure, but I really think the shame is making it harder to learn, and driving students to hide their level of competency, rather than promoting openness. Me talking to you here trying to peer pressure you to peer preure your students into "open prompt" standards, at least in education settings, is how I try to fulfill the exact advice you are giving me.
+- wait what? i thought holocat was just a discord bot
+- You could open a related issue or ask more questions on this
+- He's a recurring character 😉
+- Hi, I hope you're all doing well. Besides the study material at the beginning of this thread and the email that arrived after the meeting with the Lightning invoices, is there anything else that indicates the start of this assignment? Something like in test-the-test where there was a step-by-step guide outlining what we had to do.
+- If you attend a welcome call you will get the classroom link
+- Interesting so like the math would be correct but it might introduce a bias to the random distribution
+- the link come to my email ?
+- I understand holocat's answer, but I'm not convinced. You can also argue that excluding some tweaks based on the fact that they're above the order of the group, might introduce a bias in the tweaks.
+- hmmm when i reopen holocat's answer changes so don't know if he is explaining it the same every time 😅
+- did you attend a welcome call?
+- Yes, I was on the call until the end today, and afterwards I received an email with some Lightning hashes or invoices, nothing more
+- did you hear jonas say a magic word that youre supposed to DM to holocat to get the challenge link? It was repeated several times
+- I might have heard it, but my English isn't very good. How can I get it if I missed it?
+- I wasn't aware of this. good discussion in the PR from both sides.
+- PS: I checked the README.md, but didn't see a mention of that.
+- I'm hesitant to hop in the thread and change the subject to open prompting standards before I get more feedback or even traction in educational spaces for open prompting as a way to prevent reckless AI usage and accusations about individual cases of AI usage. To me opening the prompts gets rid of all the political fighting and lets people prove if they took timeto do it right or not. I don't see another way to prove that outside of prompt sharing but I'd love to be proven wrong.
+- Show us the prompts is the new show us the source code. You can't analyze the real ai usage until they show the prompts.
+- Thanks. I just want to be really sure.
+- Try to use latest. 30.2 but it won't matter
+- I'm surprised the book is that far behind. Third edition?
+- DM me, there were some invalid email addresses
+- Yes, third edition. (2023) 😅
+- @jonas i Missed the call what should i do
+- There are 3 more calls. Go to another.
+- Thank you for feedback on this, I think we've run our course and done all I can do in terms of normalizing ethical and productive behavior. Definitely not open to coercion but I would invite anyone trying to establish a difference between professional ai work and sloppy hack jobs to look to the prompts for an easy way to differentiate the two, the same way looking at open source code tells you its quality. Again, I would never tolerate coercion, but might be asked to show your work when you ask for help in order to receive help so we know we're actually helping you learn. I'd like showing your prompts to become normal practice, I think it would help close the gap between the two sides a bit but I may be alone in that here and now.
+- So the fun continues, looking forward to attend the call later today.
+- How much time do we have until next assignemnt ?
+- I plan on doing that, actually. 😅
+- Hello On the call yesterday some slide said that the allowed languages were C, C++ and Rust but on this challenge's `recover_balance.md` , python is included as well So is python ok or not? :)
+- Yes, Python is allowed for this challenge
+- I got mail but there isn't any link
+- @CosmopolitanApe the passcode will be shared during the call
+- Just attend any of them
+- Gotcha! Yesterday was too late but will attend the one today
+- I thought "xpub" was the extended public key for hd wallets, but this is just a string "xpub" that a public key starts with and not related at all or?
+- i would say it's both
+- Hi, is this challenge released? I have done test-the-test (hence here), the magic word was just for the test-the-test right? Okay, found out.. just need to use the same magic word again
+- hii can i use different crates in these challenges?
+- or am I forbidden from adding extra crates
+- i think adding other crates might take the fun away though
+- I got on the call yesterday no program held, just few people on the call too.
+- What? Then you clicked the wrong link maybe. There were 200 people there and Jonas spoke for an hour
+- Waw! I try that of today again
+- sorry @idris but please don't share any secret words on here!
+- I m sorry for the mistakes
+- I think I've found the reason; it's probably because I turned on this switch: "Enable hard mode to increase the difficulty of the challenges." fixed 🙂
+- There's open issues about this in the saving satoshi repo
+- thank you @pinheadmz
+- Ah, that would work nicely. Thanks!
+- Same issue
+- I had the same issue but I got access after checking notifications, there is a "accept" button hidden there
+- I had the same issue and just found an email with and invitation button, it worked.
+- hmm, I'm wondering what to do.. I'm a C++ professional, but I don't know Rust. What is the better strategy, learn Rust by doing the challanges and progress slower, or rewrite everything from scratch using C++? In the second case, the Rust helper framework won't be available, but the language itself won't be an issue. I see no benefit working in python.. is there anybpdy else in these shoes? My main argument supporting Rust is that I have to learn it eventually....
+- IDK both rust and c++ and I opt to go for rust If you good at c++ then continue it with that itself my opinion
+- I think you can rewrite it in C++
+- this text is from `recover_balance.md`
+- FWIW I'm more familiar with C++, but using this as an opportunity to learn rust. As Jonas said in the call today "learn the hard things" or something like that... 😀 I'd dabbled in in in the past, but never really gone beyond some tutorials, so it'g going to be quite the learning curve
+- Let's learn together!
+- you get that after you attend a welcome call
+- and now you, @Daniel are officially responsible for answering that question the next time someone asks
+- I attended a welcome call yesterday though
+- Aright sure I will do that
+- did you hear jonas tell you what to do to start the challenge
+- Then I didn't hear that clearly Can you emphasis on it please Because I heard he said it hasn't been opened yet
+- yes, just write the challenge in c++
+- the README explains how
+- ah.. i see. good pointer
+- thanks for the headsup
+- check pinned messages, sorry
+- Can we skip some of the address along the key tree during implementation of `BIP 32` or it is not possibly mathematically as mentioned due to very very high probability ?
+- you want to skip something the protocol says to do?
+- programmable money! dont mess it up!
+- Am getting Access Issue when I click on the url that halo cat gave me Repository Access Issue You no longer have access to your assignment repository. Contact your teacher for support
+- I have seen it thank you
+- Doing the challenge in Rust, we're only supposed to use the crates listed as dependencies in the `Cargo.toml` file, right?
+- thats not explict requirement
+- removes `bdk_wallet` from project
+
+## Bitcoin / Core
+### #signet-wallet-1-balance
+- There is a block explorer for our private signet chain: https://signet.bosschallenge.xyz/
+- What to do in signet wallet challenge
+- the mere fact that we will be able to tell who finishes the challenges at the earliest on the wallet explorer makes this challenge more like.... a hackathon! giving me adrenaline! gonna push through the night
+- hello it possible to remove on my system the bitcoin core from build i use during make test challange ?? for make my confuguratios as i can
+- yes it is possible. did you delete bitcoin repo folder?
+- I see the private key in my "private data" email, but no `wallet_*` value next to it. there is, however, a `wallet_*` next to the lightning invoices. can I assume the signet wallet challenge uses the same wallet name?
+- its gmail mail-merge, it wouldve been very easy for me to include the wallet name more clearly
+- This is your wallet name! Sorry I missed up the emails
+- Is asking specific questions about bitcoin in the scope of this channel? As I'm researching the background info for the task, I'm starting to have questions about some implementation details in bitcoin.
+- Cool! So, in [BIP341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki#cite_ref-22-0), in the script validation rules of the script path, the following is stated: > If t ≥ 0xFFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE BAAEDCE6 AF48A03B BFD25E8C D0364141 (order of secp256k1), fail. Which is in regard to the tweak used to generate the key. Why don't we just apply modulo? If we assume the output of a hash is random, then we should be safe.
+- Not all of us are here because we are new to C or new to noderunning or new to bitcoin.
+- I thinking implements sha265, sha512 and secp256k1 ( and more another things ). Have a "good time" to delivery the challenge ? in the past i have implementation this "features" for a college project about bitcoin. I know how implements sha and secp256k1 but i dont know how time i take to implements on rust
+- Ok. I don't know. Currently bitcoin core is pretty hostile to code and docs and comments written by obvious LLM bc reviewers expect the code author to know exactly what they are doing. But I suggest you reach out to some OSS Bitcoin projects and see what their policy is and tune your challenge responses to a goal of working on the space full time
+- Actually. I suggest asking this on bitcoin stack exchange. I bet you get answer from sipa in a day or less
+- Some context https://github.com/bitcoin/bitcoin/pull/33662
+- Hi, I hope I'm asking this question the right way, but is there a preferred version of Bitcoin core to be run for this task? I ask, because I've been reading the bitcoin book: https://github.com/bitcoinbook/bitcoinbook and it's on v24.0.1 (which I followed along to). Changing it won't be too big a deal, but I understand that the most recent versions of projects may not be the most stable. If there isn't a preferred version, is there a minimum?
+- I have a v29 and it connects to the signet node just fine. ``` { "chain": "signet", "blocks": 362, "headers": 362, "bestblockhash": "0000024bf89bf8cb05d304093b9b13e4f9e00f9d128ba0b24750e5f5406ddf2a", ... ``` — `code/logs`
+- > This 78 byte structure can be encoded like other Bitcoin data in Base58, by first adding 32 checksum bits (derived from the double SHA-256 checksum), and then converting to the Base58 representation. This results in a Base58-encoded string of exactly 111 characters. Because of the choice of the version bytes, the Base58 representation will start with "xprv" or "xpub" on mainnet, "tprv" or "tpub" on testnet.
+- there is a "new" magic word jonas will reveal in the welcome call, that will get you the signet-1 challenge link
+- Hi @pinheadmz , I'm getting a `Repository Access Issue` i've completed the `test-the-test` & received the signet email.
+- gotta say pretty fun to mine blocks on a public signet 🙂
+- @pinheadmz not a huge issue but see https://signet.bosschallenge.xyz/api/address/tb1psdc7zhgplsecm95x5cg76z6pfu0hk96sh9wxyzcusn7v047repvqckyz5c `{"error":"Address lookups cannot be used with bitcoind as backend."}` maybe it's on purpose..
+- can see my [txns](https://signet.bosschallenge.xyz/tx/0bf7615ced757cf4da14c964e2e2ccf72e74227f6884301c752b5899f624d7e1), all good there.
+- In some comments, I see that people don't seem to like using Python. Why is that? I think it's a good programming language with a lot of support and communities constantly developing and improving it. Regarding the use of Python in Bitcoin, LNBits has a large part of its Lightning solutions built with Python and C++.
+- Please just wanted to know has the signet-wallet-balance challenge started. Even though I have been emailed with the credentials already .I don't have any repo link to see the project
+- i have the opposite question. i chose python & rust for the challege languages but seeing as most of bitcoin core is written i c++, i'm interested in learning c++ during the program. this shouldn't be tooo hard as i am already comfortable with C and have used c++ recently for some arduino work. is there a way to add c++ as a preferred laguage for future challenges?
+- hi, i have a silly question, what's the wallet name? on /main.rs it's a WALLET_NAME and EXTENDED_PRIVATE_KEY, is the WALLET_NAME necessary?
+- just dont import a bitcoin wallet crate and cheat
+- Here's a starter file for the first part of the challenge in C++ if anyone else wants.. I implemented hex_encode and hex_decode helpers for the Outpoint serialization functions but that's about the only change different from the rust file. I used the secp256k1 already a part of test-the-test bitcoin core as well. Paste this below into your run_balance.sh, comment out the python/rust runs and then do ```sh solutions/run_balance.sh``` to run it.. your bitcoin_dir might also differ so change it accordingly lol ```# C++ # Using secp256k1 from test-the-test Bitcoin Core build BITCOIN_DIR=~/Documents/GitHub/bitcoin-core-test-the-test-REPLACE_YOUR_GITHUB_HERE/bitcoin SECP_INCLUDE="$BITCOIN_DIR/src/secp256k1/include" # Path to secp256k1 includes, resolves the secp256k1 headers SECP_LIB="$BITCOIN_DIR/build/src/secp256k1/lib" # Path to secp256k1 library, resolves libsecp256k1.a g++ -std=c++17 -O2 -o ./solution/cpp/balance ./solution/cpp/balance.cpp \ -I"$SECP_INCLUDE" \ -L"$SECP_LIB" \ -lssl -lcrypto -lsecp256k1 2>&1 ./solution/cpp/balance balance```
+- 🙂 I mean one thing about the BIP and the standards is that everything can be tricky: - base58 has the 1 padding - bitcoin does a lot of DOUBLE-sha256 - key derivation has "h" and normal - point may be compressed or uncompressed and any small detail can likely lead to very different outcomes
+- im confused by the ``` from secp256k1 import PrivateKey, PublicKey ``` in the code, but the ``` Both Python and Rust examples import bindings to libsecp256k1 which is the cryptography library used by Bitcoin Core. You MAY use this library to access constants like G or the order of the curve, but you MAY NOT use this or any other library to avoid implementing BIP32 yourself. ``` in the readme I don't see any way to get G from this python lib, are we supposed to be using the Pub/Priv key objects here, or is that "avoiding implementing BIP32" — `code/logs`
+- I dont know where that is written but I assume they mean that bitcoin addresses have a built in checksum and you need to remove that? Context might help
+- not sure who to at so I'm goin with @pinheadmz an @satsie What gave me the most pause o this challenge was trying to figure out if I was supposed to commit my private keys hard coded into the wallet or if I should submit the entire address pool derived from my keys instead. Thanks for hearing all of our feedback.
+- hi everyone, Is anyone having trouble using the bitcoin.conf file with bitcoind signet? I left bitcoin.conf untouched and put it in my default datadits, but when i run ./bitcoind -signet it says me peers.dat is corrupted 🙁
+- hmm i removed it and it is still getting 2026-01-14T05:16:40Z [error] Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. Error: Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. I guess the network magic number is invalid?
+- You just hardcode the tprv from the mail into your balance.py. The derived keys don't need to be submitted anywhere, you just need them to sum up the wallet balance.
+- Yes ofc, and i did that, but understand that it isn't normally safe right lol? If we have to create a pool of addresses to check for incoming utxos, then we can just push that list of addresses and still get the exact same results without exposing the key. Anyway, it says "Submit a program with your tprv hard-coded, execute the necessary bitcoin-cli RPCs and return your wallet balance" but that is just very counter intuitive imo. Usually something you NEVER do lol.
+- The instructions say somewhere explicitly: Submit a program with your tprv hard-coded, execute the necessary bitcoin-cli RPCs and return your wallet balance. The overthinking is real.
+- yes, it will be regenerated once bitcoind is restarted. I also had similar issues and it was because I was running peers.dat from another location. Deleting it was the solution
+- Yeah I imagine (/86h/1h/0h/0/*) probably isnt the default derivative path on normie signet but I'm not sure, you'll have to include it somewhere either way.
+- Correct, you have to protect your keys to _funded addresses on mainnet_ at all cost. Never submit them anywhere. But the "coins" on Signet do not have any value, no incentive to steal them for anybody.
+- They have value to me because if someone steals my coins I cannot complete the challenge lololol. I would be the first guy to get clipboard snooped and wallet drained while in the BOSS program.
+- ~~I got an error when trying to access the wallet assignment invitation... Repository Access Issue You no longer have access to your assignment repository. Contact your teacher for support~~ nevermind, it worked with the email! thanks @AlienX
+- I have not tried it yet, but the instructions suggest: `We will run your program against Bitcoin Core synced to our private signet chain but with the Bitcoin Core wallet disabled. That means that RPCs like importdescriptor will fail. You are, of course, allowed to import your descriptor into Bitcoin Core to check your own work as you develop the wallet locally.`
+- its a bit weird but its a private repo, a private signet chain with no value, and its an educational project
+- this means you likely have synced to another signet before, you need to move or delete that other signet datadir first. https://github.com/bitcoin/bitcoin/issues/27494
+- this is a good question and it is addressed in the docs. you **CAN** import your descriptor into bitcoin core and sync the signet chain to check your work. of course you will not be able to do tha in your code submission. cc: @Toyin
+- We will generate a signet blockchain and host a mining node that everyone can connect to, download the chain (around 20 MB), and broadcast their completed transactions. This is a little confusing @pinheadmz I already have my `bitcoind` working. Still learning rust tho
+- yeah that is correct, because that is how descriptors work.https://github.com/bitcoin/bips/blob/master/bip-0386.mediawiki
+- ok, might help to review BIP325. Signet is a special kind of test-chain where the coins have no value. (you may already be familiar with regtest and testnet) I think that answers your question but keep asking if not
+- of course, you **COULD** import your descriptor into bitcoin core and just ya know, see what bitcoin core thinks your balance is
+- To create a block in signet, you use a special key to sign the blocks and only the BOSS staff have the key. Otherwise we'd ruin their chain's10 minute regularity and small size.
+- confusing for someone that's doing Bitcoin for the first time
+- Oh yeah, re-implemented bitcoin-cli in C with no dependencies and now I am insane.
+- before pushing how do we locally see we are right or not,like just some sats no along with wallet -printing that gives nothing righ
+- I didnt want to use bitcoin-cli in the challenge so i wrote a websocket that talks to the node without it, i wanted to use as little dependencies as possible. json parser too lol. I submitted it as my result.
+- Hi guys, please find here a markdown explaining how to run bitcoind locally using docker-compose. Adapt it with the content @pinheadmz sent you via mail and it will help you find at least your balance using bitcoin-cli ONLY. I'm not sharing code here. Please, have a look and improve it. Let me know for any suggestions on it. Hope it helps for a cold start.
+- The cooler way to check is import your descriptor into bitcoin core, sync the signet chain and check your balance
+- at some point we will shut down the signet chain and autograder
+- which challnge the signet's
+- Took me too long trying to figure out what was wrong. Turns out I didn't make the changes to the wallet name. Thanks @pinheadmz
+- Hey @pinheadmz , I haven't received the mail with this wallet and bitcoin node config, I have attended the meeting yesterday (13th Jan 2026). Can you please help me with this ! Thanks .
+- hii @pinheadmz , i received the mail welcome message from Jonas and haven't received the mail with this wallet and bitcoin node config
+- locally, I see ```$ bitcoin-cli -signet getblockcount 287048``` but the block explorer (https://signet.bosschallenge.xyz/) shows only 613 blocks. Why is that? Pruning? Am I on different chains? Running `bitcoind -signet` locally and synced. if I search the block explorer for a valid address, I get: ```Error loading address data. There are too many transactions on this address, more than your backend can handle. See more on setting up a stronger backend.``` — `code/logs`
+- Make sure you're using the right bitcoin.conf
+- I use the one present in /config/bitcoin.conf
+- ``` REPO_ROOT := $(shell git rev-parse --show-toplevel) start-deps: bitcoind -signet -conf=${REPO_ROOT}/config/bitcoin.conf -daemon stop-deps: bitcoin-cli -signet stop ``` I used this ^Makefile to make my life easy — `code/logs`
+- 1. stop the btc core. 2. run rm -rf "/Users/Library/Application Support/Bitcoin/signet" 3. bitcoind -signet
+- I was indeed using the wrong `bitcoin.conf` AND `datadir` (used the one from my normal node...) Thanks so much @sandipan @pinheadmz @Cryptoverse
+- I have question about initial parsing xprv from mail In rust first parsing xprv But i've got descriptor in email Can i a little change function signature and first parse it to parts: key, path, desc_checksum And then work futher Thx for any answer 🙂
+- hii @pinheadmz , I haven't received the mail with this wallet and bitcoin node config
+- Hey, Just joined the wallet channel but can't find the link to the classroom, Any suggestions to do?
+- mastering bitcoin from anton 😉 @Tigonis
+- i mean, i know about descriptors from mastering bitcoin
+- Reading BIPs is a whole nother skill imo 😀 not as easily digestible as Mastering Bitcoin
+- btw bitcoin core has its own doc on descriptors which is nice https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md
+- hello friends, I am back with another adventure where I setup docker for running bitcoin signet for this boss challenge over tor network. You might find this helpful to get started: https://dev.to/kniraj/the-oss-challenge-cloaking-my-signet-node-for-the-wallet-challenge-44p3
+- yeah I've always desired docs on the ways to specify.a public key. for example I've never seen anywhere that explains how to correctly make a descriptor with the xpriv checksum and path to the xpub like this `[c80b1469/44h/1h/0h]tpubDD3UwwHoNUF4F3Vi5PiUVTc3ji1uThuRfFyBexTSHoAcHuWW2z8qEE2YujegcLtgthr3wMp3ZauvNG9eT9xfJyxXCfNty8h6rDBYU8UU1qq/0/*`. you just have to kinda know or find out the hard way that that is the xpriv checksum
+- and the descriptor docs always seem to assume you know that for some reason
+- It's just for setting up the node for signet and does not include solution for signet challenge.
+- I mean your guide will connect to "default" signet not BOSS signet
+- Oh right! you need to copy config/bitcoin.conf to bitcoin-data
+- Love how signet does IBD in 6 seconds.
+- my wallet balance comes out at zero, but I don't think it should be zero?
+- You can import your key into bitcoin core and scan the signet chain to check
+- Maybe you are using the wrong wallet key and private key
+- I believe you got a mail containing your wallet key and private key
+- I got a private key for signet wallet challenge
+- Have you replaced the value in the import descriptor command?
+- your script needs to print a line the autograder (.github/test/test_balance.sh) can find in .github/test/wallet_balances.txt, so if your output does not include the correct wallet name, it will fail
+- yeah, the Github Actions Test is using the wallet name to lookup the target value in test\wallet_balances.txt - the calculation was correct, just the wallet name was wrong. It passed the test now.
+- you mean the one with "Private key wallet descriptor" and "Invoices for the Lightning"? cos thats all i got
+
+## Git / PRs
+### #signet-wallet-1-balance
+- if you attended a welcome call, you have a github classroom assignment link
+- its gmail mail-merge, it wouldve been very easy for me to include the wallet name more clearly
+- Cool! So, in [BIP341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki#cite_ref-22-0), in the script validation rules of the script path, the following is stated: > If t ≥ 0xFFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE BAAEDCE6 AF48A03B BFD25E8C D0364141 (order of secp256k1), fail. Which is in regard to the tweak used to generate the key. Why don't we just apply modulo? If we assume the output of a hash is random, then we should be safe.
+- Some context https://github.com/bitcoin/bitcoin/pull/33662
+- Hi, I hope I'm asking this question the right way, but is there a preferred version of Bitcoin core to be run for this task? I ask, because I've been reading the bitcoin book: https://github.com/bitcoinbook/bitcoinbook and it's on v24.0.1 (which I followed along to). Changing it won't be too big a deal, but I understand that the most recent versions of projects may not be the most stable. If there isn't a preferred version, is there a minimum?
+- Open a PR! It's on GitHub
+- I haven't received any email regarding prv keys I had attended the session dmed the word to holocat too Also got the github classroom link
+- Hey guys, how do I access github classroom for this challenge?
+- To access the GitHub classroom you need to attend one of the kickoff calls. You will receive a special word at the end.
+- I believe it's this issue: https://github.com/saving-satoshi/saving-satoshi/issues/1342 There is a PR open to fix it if you want to contribute to the review!
+- Are there any objections to artificially disabling the github autograder workflow while my work is incomplete? Context: I would like to push my changes intermittently, but there is no point in wasting resources on autograder if it will/should fail. I was thinking of changing the workflow file in this way: `jobs.run-autograder-tests.if: false && <current conditions>`. Is that fine or am I missing some downstream effects causing issues?
+- it runs on main only, i believe. branch out and merge in when you're done
+- It only runs on push to main though, not merge (I think?)
+- if you merge locally then push the merge commit, that's a push
+- but i think github actions sees a merge as a push. i'd need to confirm that though
+- he meant: branch out, merge back to main, then push
+- Hi FoulMinion, if you commit, but you don't push, only your local git database is updated. You make the changes public by the "git push" command. Usually this is how most people work... commit locally, and push later. You can do some cosmetics on your local commits before pushing, if you wish.
+- I prefer to have a remote copy of my work in progress, too. Using a wip branch does the trick in this case.
+- @here If you are getting "repository access issue" check your email, there should be an invitation to join the boss-2026-challenge organization. WHY WASN'T this a problem last month for test-the-test? Only the devil in GitHub Classroom knows.
+- Here's a starter file for the first part of the challenge in C++ if anyone else wants.. I implemented hex_encode and hex_decode helpers for the Outpoint serialization functions but that's about the only change different from the rust file. I used the secp256k1 already a part of test-the-test bitcoin core as well. Paste this below into your run_balance.sh, comment out the python/rust runs and then do ```sh solutions/run_balance.sh``` to run it.. your bitcoin_dir might also differ so change it accordingly lol ```# C++ # Using secp256k1 from test-the-test Bitcoin Core build BITCOIN_DIR=~/Documents/GitHub/bitcoin-core-test-the-test-REPLACE_YOUR_GITHUB_HERE/bitcoin SECP_INCLUDE="$BITCOIN_DIR/src/secp256k1/include" # Path to secp256k1 includes, resolves the secp256k1 headers SECP_LIB="$BITCOIN_DIR/build/src/secp256k1/lib" # Path to secp256k1 library, resolves libsecp256k1.a g++ -std=c++17 -O2 -o ./solution/cpp/balance ./solution/cpp/balance.cpp \ -I"$SECP_INCLUDE" \ -L"$SECP_LIB" \ -lssl -lcrypto -lsecp256k1 2>&1 ./solution/cpp/balance balance```
+- not sure who to at so I'm goin with @pinheadmz an @satsie What gave me the most pause o this challenge was trying to figure out if I was supposed to commit my private keys hard coded into the wallet or if I should submit the entire address pool derived from my keys instead. Thanks for hearing all of our feedback.
+- I was sure that submitting my keys to the classroom github was an instant fail but it looks like that was expected?
+- hmm i removed it and it is still getting 2026-01-14T05:16:40Z [error] Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. Error: Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. I guess the network magic number is invalid?
+- Check your email! You got an invitation from the GitHub classroom
+- Visit https://github.com/boss-2026-challenge
+- hi，I also use C++ but rarely work with autograder. I'd like to know how to troubleshoot errors with it after pushing a commit ，I'm not even sure if run_balance.sh was called.
+- this means you likely have synced to another signet before, you need to move or delete that other signet datadir first. https://github.com/bitcoin/bitcoin/issues/27494
+- yeah that is correct, because that is how descriptors work.https://github.com/bitcoin/bips/blob/master/bip-0386.mediawiki
+- **important** how to check locally whether autograder will pass you,simple python3 solution/python.balance.py(the next one will anyway give you what this gives,however) bash ./.github/test/test_balance.sh cat ./.github/test/wallet_balances.txt (run only once and write it down-this is what you gotta match) — `cmd:` bash ./.github/test/test_balance.sh
+- python3 solution/python.balance.py(the next one will anyway give you what this gives,however) bash ./.github/test/test_balance.sh cat ./.github/test/wallet_balances.txt (run only once and write it down-this is what you gotta match) ................................................................................ so irr of the python or rust,autograder cares abt the result — `cmd:` bash ./.github/test/test_balance.sh
+- look for an email from github
+- Checked my email, aside from welcome message from Jonas and Private code from Matthew, can’t find any other email with GitHub link accept an invite
+- Found it, was sent to the other email linked to my GitHub. Thank you
+- @Tigonis https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05_wallets.adoc
+- I have the 2nd edition I bought in 2021, no mention of descriptors. Cannot seem to find it in the 3rd edition as well..any specific doc in the book's github repo?
+- btw bitcoin core has its own doc on descriptors which is nice https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md
+- Oooh sounds like you got a pull request cooking!
+- your script needs to print a line the autograder (.github/test/test_balance.sh) can find in .github/test/wallet_balances.txt, so if your output does not include the correct wallet name, it will fail
+- yeah, the Github Actions Test is using the wallet name to lookup the target value in test\wallet_balances.txt - the calculation was correct, just the wallet name was wrong. It passed the test now.
+- Check out the repos here https://github.com/boss-2026-challenge/
+- my github classroom link is showing "repository access issues" please help!
+- Nope from GitHub classroom
+- Or Check out your repos here https://github.com/boss-2026-challenge/
+
+## Resources / Links
+### #signet-wallet-1-balance
+- There is a block explorer for our private signet chain: https://signet.bosschallenge.xyz/
+- https://learnmeabitcoin.com/technical/upgrades/taproot/#etymology
+- Cool! So, in [BIP341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki#cite_ref-22-0), in the script validation rules of the script path, the following is stated: > If t ≥ 0xFFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE BAAEDCE6 AF48A03B BFD25E8C D0364141 (order of secp256k1), fail. Which is in regard to the tweak used to generate the key. Why don't we just apply modulo? If we assume the output of a hash is random, then we should be safe.
+- not sure if it is right but holocat seems to give reasonable explanation https://chat.bitcoinsearch.xyz/?author=holocat&question=So%252C%2520in%2520BIP341%252C%2520in%2520the%2520script%2520validation%2520rules%2520of%2520the%2520script%2520path%252C%2520the%2520following%2520is%2520stated%253A%250AIf%2520t%2520%25E2%2589%25A5%25200xFFFFFFFF%2520FFFFFFFF%2520FFFFFFFF%2520FFFFFFFE%2520BAAEDCE6%2520AF48A03B%2520BFD25E8C%2520D0364141%2520%28order%2520of%2520secp256k1%29%252C%2520fail.%250AWhich%2520is%2520in%2520regard%2520to%2520the%2520tweak%2520used%2520to%2520generate%2520the%2520key.%250A%250AWhy%2520don%27t%2520we%2520just%2520apply%2520modulo%253F%2520If%2520we%2520assume%2520the%2520output%2520of%2520a%2520hash%2520is%2520random%252C%2520then%2520we%2520should%2520be%2520safe.
+- Some context https://github.com/bitcoin/bitcoin/pull/33662
+- Hi, I hope I'm asking this question the right way, but is there a preferred version of Bitcoin core to be run for this task? I ask, because I've been reading the bitcoin book: https://github.com/bitcoinbook/bitcoinbook and it's on v24.0.1 (which I followed along to). Changing it won't be too big a deal, but I understand that the most recent versions of projects may not be the most stable. If there isn't a preferred version, is there a minimum?
+- I wanted to review Savingsatoshi, but when I reached Chapter 6, I found that it had reverted to a locked state, while other chapters such as Chapters 7 and 8, remained unlocked. When I tried to access the introduction to Chapter 6, the page redirected to https://savingsatoshi.com/en/chaptersundefined. (Back to safety) button Has anyone else encountered a similar problem? @satsie
+- I believe it's this issue: https://github.com/saving-satoshi/saving-satoshi/issues/1342 There is a PR open to fix it if you want to contribute to the review!
+- @pinheadmz not a huge issue but see https://signet.bosschallenge.xyz/api/address/tb1psdc7zhgplsecm95x5cg76z6pfu0hk96sh9wxyzcusn7v047repvqckyz5c `{"error":"Address lookups cannot be used with bitcoind as backend."}` maybe it's on purpose..
+- can see my [txns](https://signet.bosschallenge.xyz/tx/0bf7615ced757cf4da14c964e2e2ccf72e74227f6884301c752b5899f624d7e1), all good there.
+- what you asked is pretty simple, just resize the decoded result. But if you're not there yet... then I'd suggest you to read this: https://learnmeabitcoin.com/technical/keys/base58/
+- hmm i removed it and it is still getting 2026-01-14T05:16:40Z [error] Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. Error: Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. I guess the network magic number is invalid?
+- https://learnmeabitcoin.com/technical/keys/hd-wallets/derivation-paths/
+- this is also famous too that i used few years back to get the addresses. https://iancoleman.io/bip39/
+- also for understandin schnorr , musig and taproot go over this https://bitcoinops.org/en/schnorr-taproot-workshop/. bitcoinops is really cool
+- Visit https://github.com/boss-2026-challenge
+- this means you likely have synced to another signet before, you need to move or delete that other signet datadir first. https://github.com/bitcoin/bitcoin/issues/27494
+- yeah that is correct, because that is how descriptors work.https://github.com/bitcoin/bips/blob/master/bip-0386.mediawiki
+- https://discord.com/channels/1431021528866361438/1433469014662840421/1460954491200208926
+- https://discord.com/channels/1431021528866361438/1433469014662840421/1460952144436924507
+- locally, I see ```$ bitcoin-cli -signet getblockcount 287048``` but the block explorer (https://signet.bosschallenge.xyz/) shows only 613 blocks. Why is that? Pruning? Am I on different chains? Running `bitcoind -signet` locally and synced. if I search the block explorer for a valid address, I get: ```Error loading address data. There are too many transactions on this address, more than your backend can handle. See more on setting up a stronger backend.``` — `code/logs`
+- @Tigonis https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05_wallets.adoc
+- btw bitcoin core has its own doc on descriptors which is nice https://github.com/bitcoin/bitcoin/blob/master/doc/descriptors.md
+- hello friends, I am back with another adventure where I setup docker for running bitcoin signet for this boss challenge over tor network. You might find this helpful to get started: https://dev.to/kniraj/the-oss-challenge-cloaking-my-signet-node-for-the-wallet-challenge-44p3
+- Check out the repos here https://github.com/boss-2026-challenge/
+- u can refer this bitcoinops workshop 0.3 lecture and code example only 10 minutes activity. https://bitcoinops.org/en/schnorr-taproot-workshop/
+- Or Check out your repos here https://github.com/boss-2026-challenge/
+
+## CI / Build
+### #signet-wallet-1-balance
+- can you like make them un postable,there must be some settings
+- hello it possible to remove on my system the bitcoin core from build i use during make test challange ?? for make my confuguratios as i can
+- Good crypto question. Not sure if wrapping a large tweak around modulus would work or if the BIP is specified to make things easier like batch validation
+- Yeah idk, they seem to be discussing how to attribute AI, I'm more saying "have students show their prompts as a condition of open source AI usage and for learning purposes." No hiding it. I don't honestly expect all professionals to share their prompts, I think they probably should but its trivial to lie about. Thats why I identify shame in particular as a roadblock to progress, get them to admit it, get them to show you the prompts, get them to stop planning how to build and do more reading, analysis, going over of concepts in between planning and build steps. This way you could pin down who is leaning on the machine and who is doing deep systems analysis before they make a flow chart for their backend. Like I said, we'll all get their eventually, take your time.
+- If you are using python for the challenge. Might be a bit non intuitive to debug from the main solution file (incomplete methods and such might make it a bit difficult). You can open up a jupyter notebook for debugging and more, the markdown can also be good for drafting your thoughts. (out of scope but can also come in handy if you ever want to use the testshell) try to use a venv if you can 🙂
+- but i think github actions sees a merge as a push. i'd need to confirm that though
+- Hi FoulMinion, if you commit, but you don't push, only your local git database is updated. You make the changes public by the "git push" command. Usually this is how most people work... commit locally, and push later. You can do some cosmetics on your local commits before pushing, if you wish.
+- I'm doing it myself for learning purposes (I'm a C++ newbie) under `solution/cpp` and updated `run_balance.sh` script to build and execute the binary
+- yeah i didnt bother build electrs for address indexing for this explorer instance
+- Here's a starter file for the first part of the challenge in C++ if anyone else wants.. I implemented hex_encode and hex_decode helpers for the Outpoint serialization functions but that's about the only change different from the rust file. I used the secp256k1 already a part of test-the-test bitcoin core as well. Paste this below into your run_balance.sh, comment out the python/rust runs and then do ```sh solutions/run_balance.sh``` to run it.. your bitcoin_dir might also differ so change it accordingly lol ```# C++ # Using secp256k1 from test-the-test Bitcoin Core build BITCOIN_DIR=~/Documents/GitHub/bitcoin-core-test-the-test-REPLACE_YOUR_GITHUB_HERE/bitcoin SECP_INCLUDE="$BITCOIN_DIR/src/secp256k1/include" # Path to secp256k1 includes, resolves the secp256k1 headers SECP_LIB="$BITCOIN_DIR/build/src/secp256k1/lib" # Path to secp256k1 library, resolves libsecp256k1.a g++ -std=c++17 -O2 -o ./solution/cpp/balance ./solution/cpp/balance.cpp \ -I"$SECP_INCLUDE" \ -L"$SECP_LIB" \ -lssl -lcrypto -lsecp256k1 2>&1 ./solution/cpp/balance balance```
+- Hey, check your email! You got some private data there, so make sure to use it.
+- it feels carzy i never knew i would compile first before building
+- apart from the readme, i just found that there is `recover_balance.md`, make sure you read this
+- okay sir. for now i am saving this sentence to make sense later,coz didnt understand properly. But sounds like it can be done with some time.Maybe one can return to this and try
+- Took me too long trying to figure out what was wrong. Turns out I didn't make the changes to the wallet name. Thanks @pinheadmz
+- Make sure you're using the right bitcoin.conf
+- ``` REPO_ROOT := $(shell git rev-parse --show-toplevel) start-deps: bitcoind -signet -conf=${REPO_ROOT}/config/bitcoin.conf -daemon stop-deps: bitcoin-cli -signet stop ``` I used this ^Makefile to make my life easy — `code/logs`
+- make sure use the right .conf — `cmd:` make sure use the right .conf
+- yeah I've always desired docs on the ways to specify.a public key. for example I've never seen anywhere that explains how to correctly make a descriptor with the xpriv checksum and path to the xpub like this `[c80b1469/44h/1h/0h]tpubDD3UwwHoNUF4F3Vi5PiUVTc3ji1uThuRfFyBexTSHoAcHuWW2z8qEE2YujegcLtgthr3wMp3ZauvNG9eT9xfJyxXCfNty8h6rDBYU8UU1qq/0/*`. you just have to kinda know or find out the hard way that that is the xpriv checksum
+- yeah, the Github Actions Test is using the wallet name to lookup the target value in test\wallet_balances.txt - the calculation was correct, just the wallet name was wrong. It passed the test now.
+
+## Code / Logs
+### #signet-wallet-1-balance
+- Cool! So, in [BIP341](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki#cite_ref-22-0), in the script validation rules of the script path, the following is stated: > If t ≥ 0xFFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE BAAEDCE6 AF48A03B BFD25E8C D0364141 (order of secp256k1), fail. Which is in regard to the tweak used to generate the key. Why don't we just apply modulo? If we assume the output of a hash is random, then we should be safe.
+- I have a v29 and it connects to the signet node just fine. ``` { "chain": "signet", "blocks": 362, "headers": 362, "bestblockhash": "0000024bf89bf8cb05d304093b9b13e4f9e00f9d128ba0b24750e5f5406ddf2a", ... ``` — `code/logs`
+- I still haven't gotten that email with the private keys. ``` /////////////////////////////// // CHANGE THESE VALUES! / // They were emailed to you / // by an administrator / /////////////////////////////// ``` — `code/logs`
+- Here's a starter file for the first part of the challenge in C++ if anyone else wants.. I implemented hex_encode and hex_decode helpers for the Outpoint serialization functions but that's about the only change different from the rust file. I used the secp256k1 already a part of test-the-test bitcoin core as well. Paste this below into your run_balance.sh, comment out the python/rust runs and then do ```sh solutions/run_balance.sh``` to run it.. your bitcoin_dir might also differ so change it accordingly lol ```# C++ # Using secp256k1 from test-the-test Bitcoin Core build BITCOIN_DIR=~/Documents/GitHub/bitcoin-core-test-the-test-REPLACE_YOUR_GITHUB_HERE/bitcoin SECP_INCLUDE="$BITCOIN_DIR/src/secp256k1/include" # Path to secp256k1 includes, resolves the secp256k1 headers SECP_LIB="$BITCOIN_DIR/build/src/secp256k1/lib" # Path to secp256k1 library, resolves libsecp256k1.a g++ -std=c++17 -O2 -o ./solution/cpp/balance ./solution/cpp/balance.cpp \ -I"$SECP_INCLUDE" \ -L"$SECP_LIB" \ -lssl -lcrypto -lsecp256k1 2>&1 ./solution/cpp/balance balance```
+- im confused by the ``` from secp256k1 import PrivateKey, PublicKey ``` in the code, but the ``` Both Python and Rust examples import bindings to libsecp256k1 which is the cryptography library used by Bitcoin Core. You MAY use this library to access constants like G or the order of the curve, but you MAY NOT use this or any other library to avoid implementing BIP32 yourself. ``` in the readme I don't see any way to get G from this python lib, are we supposed to be using the Pub/Priv key objects here, or is that "avoiding implementing BIP32" — `code/logs`
+- locally, I see ```$ bitcoin-cli -signet getblockcount 287048``` but the block explorer (https://signet.bosschallenge.xyz/) shows only 613 blocks. Why is that? Pruning? Am I on different chains? Running `bitcoind -signet` locally and synced. if I search the block explorer for a valid address, I get: ```Error loading address data. There are too many transactions on this address, more than your backend can handle. See more on setting up a stronger backend.``` — `code/logs`
+- ``` REPO_ROOT := $(shell git rev-parse --show-toplevel) start-deps: bitcoind -signet -conf=${REPO_ROOT}/config/bitcoin.conf -daemon stop-deps: bitcoin-cli -signet stop ``` I used this ^Makefile to make my life easy — `code/logs`
+
+## Errors & Debugging
+### #signet-wallet-1-balance
+- Actually. I suggest asking this on bitcoin stack exchange. I bet you get answer from sipa in a day or less
+- @pinheadmz not a huge issue but see https://signet.bosschallenge.xyz/api/address/tb1psdc7zhgplsecm95x5cg76z6pfu0hk96sh9wxyzcusn7v047repvqckyz5c `{"error":"Address lookups cannot be used with bitcoind as backend."}` maybe it's on purpose..
+- hmm i removed it and it is still getting 2026-01-14T05:16:40Z [error] Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. Error: Invalid or corrupt peers.dat (Invalid network magic number). If you believe this is a bug, please report it to https://github.com/bitcoin/bitcoin/issues. As a workaround, you can move the file ("/home/sirecmg/.bitcoin/signet/peers.dat") out of the way (rename, move, or delete) to have a new one created on the next start. I guess the network magic number is invalid?
+- ~~I got an error when trying to access the wallet assignment invitation... Repository Access Issue You no longer have access to your assignment repository. Contact your teacher for support~~ nevermind, it worked with the email! thanks @AlienX
+- locally, I see ```$ bitcoin-cli -signet getblockcount 287048``` but the block explorer (https://signet.bosschallenge.xyz/) shows only 613 blocks. Why is that? Pruning? Am I on different chains? Running `bitcoind -signet` locally and synced. if I search the block explorer for a valid address, I get: ```Error loading address data. There are too many transactions on this address, more than your backend can handle. See more on setting up a stronger backend.``` — `code/logs`
+
+## Docker / Env
+### #signet-wallet-1-balance
+- Hi guys, please find here a markdown explaining how to run bitcoind locally using docker-compose. Adapt it with the content @pinheadmz sent you via mail and it will help you find at least your balance using bitcoin-cli ONLY. I'm not sharing code here. Please, have a look and improve it. Let me know for any suggestions on it. Hope it helps for a cold start.
+- hello friends, I am back with another adventure where I setup docker for running bitcoin signet for this boss challenge over tor network. You might find this helpful to get started: https://dev.to/kniraj/the-oss-challenge-cloaking-my-signet-node-for-the-wallet-challenge-44p3
+- And I see you were talking about flags, hmm I see hardcoded cli flags in docker are also another way to configure instead of copying config file to mounted directory. Kinda like copying configs though, we won't reveal the config to public and can swap it with anything
+- If you scroll up you will find a markdown file I published that helps to get your balance using docker
+
+## Commands / How-to
+### #signet-wallet-1-balance
+- **important** how to check locally whether autograder will pass you,simple python3 solution/python.balance.py(the next one will anyway give you what this gives,however) bash ./.github/test/test_balance.sh cat ./.github/test/wallet_balances.txt (run only once and write it down-this is what you gotta match) — `cmd:` bash ./.github/test/test_balance.sh
+- python3 solution/python.balance.py(the next one will anyway give you what this gives,however) bash ./.github/test/test_balance.sh cat ./.github/test/wallet_balances.txt (run only once and write it down-this is what you gotta match) ................................................................................ so irr of the python or rust,autograder cares abt the result — `cmd:` bash ./.github/test/test_balance.sh
+- Make sure you're using the right bitcoin.conf
+- make sure use the right .conf — `cmd:` make sure use the right .conf
