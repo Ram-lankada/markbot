@@ -46,4 +46,4 @@ done
 
 echo "Done."
 
-# command python3 "$(dirname "$0")/llm.py"
+command python3 "$(dirname "$0")/mapper.py"
